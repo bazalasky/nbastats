@@ -136,3 +136,4 @@
 /Users/bz/Desktop/nbastats/obj/Debug/net8.0/nbastats.pdb
 /Users/bz/Desktop/nbastats/obj/Debug/net8.0/nbastats.genruntimeconfig.cache
 /Users/bz/Desktop/nbastats/obj/Debug/net8.0/ref/nbastats.dll
+/Users/bz/Desktop/nbastats/obj/Debug/net8.0/nbastats.sourcelink.json
